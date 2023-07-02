@@ -1,0 +1,27 @@
+Body
+{ 
+color-scheme: tan;
+
+}
+h1
+{
+text-align: center;
+Font-size: 75PX;
+font-Family: monospace;
+font-weight: bolder;
+color: blue;
+Text-decoration-color:purple;
+Text-decoration: italic
+}
+
+h2
+{
+    text-align: center;
+    Font-size: 50PX;
+    font-Family: monospace;
+    font-weight: lighter;
+    color: red;
+    Text-decoration-color:red;
+    Text-decoration: italic
+}
+
